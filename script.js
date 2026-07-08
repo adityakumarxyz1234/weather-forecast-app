@@ -83,7 +83,7 @@ document.body.style.backgroundImage=
 
 else if(weather==="Rain"){
 
-icon.innerHTML="☁️🌧️";
+icon.innerHTML="🌧️🌧️";
 
 document.body.style.backgroundImage=
 "url('images/rainy.png')";
